@@ -7,13 +7,11 @@ I analysed 2,253 Glassdoor "Data Analyst" job postings with SQL and Excel to see
 - **Excel**: cross-checks with COUNTIF, AVERAGEIF and pivot tables
 - The raw data was cleaned with a Python script that was prepared with AI assistance (Claude). I used the cleaned file for my own analysis.
 
-## Folder structure
-- `data/raw/DataAnalyst.csv` is the original dataset, unchanged.
-- `data/clean/DataAnalyst_clean.csv` is the cleaned version.
-- `data/postings.db` is the cleaned data as a SQLite database (table `postings`, plus a small `regions` lookup table I added).
-- `sql/practice.sql` and `sql/joins.sql` hold my queries.
-- `sql/analysis.sql` holds the 10 project queries.
-- `clean_and_extract.py` is the cleaning script.
+## Files
+- `DataAnalyst_clean.xlsx` is the cleaned dataset.
+- `postings.db` is the cleaned data as a SQLite database (table `postings`, plus a small `regions` lookup table I added).
+- `analysis.sql` holds the 10 project queries.
+- `joins.sql` holds my JOIN practice on the data.
 
 ## How the data was cleaned
 - Replaced `-1` placeholders with blanks.
