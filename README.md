@@ -32,7 +32,17 @@ SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, percen
 - Senior/Lead titles average about $75K against about $66K for Junior/Entry.
 - About 19% of postings mention supply chain or logistics work.
 
+
+
 ## Limits
 - Postings are from 2020 and cover the US only.
 - Salaries are Glassdoor estimates, not posted pay, and they fall into a small number of fixed ranges.
 - Skills are keyword matches, so a mention does not mean the skill is required.
+
+- ## Charts
+
+![Cities with more than 60 postings](chart_cities.png)
+
+![Average pay by sector](chart_sector_pay.png)
+
+*Pay is the midpoint of the Glassdoor salary estimate, in $K.*
