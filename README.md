@@ -46,3 +46,12 @@ SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, percen
 ![Average pay by sector](AVG%20pay%20vs%20sectors%20.png)
 
 *Pay is the midpoint of the Glassdoor salary estimate, in $K.*
+
+
+## Key findings
+
+1. **Jobs are concentrated in New York.** New York has 310 postings, more than Chicago and San Francisco combined (249), and 5x San Diego's 62. After New York, the other cities are close together.
+
+2. **Pay barely differs by sector.** Among the six sectors with 50+ postings, average pay ranges only from 67.6K (Finance) to 74.2K (Information Technology), a gap of about 6.6K or 10%. These are Glassdoor estimate ranges, so small differences should not be over-read.
+
+3. **SQL is the most requested skill.** SQL appears in 61.2% of postings, ahead of Excel (40.1%) and Python (28.1%).
