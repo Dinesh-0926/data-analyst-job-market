@@ -39,10 +39,10 @@ SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, percen
 - Salaries are Glassdoor estimates, not posted pay, and they fall into a small number of fixed ranges.
 - Skills are keyword matches, so a mention does not mean the skill is required.
 
-- ## Charts
+## Charts
 
-![Cities with more than 60 postings](chart_cities.png)
+![Cities with more than 60 postings](Cities%20with%20more%20than%2060%20postings.png)
 
-![Average pay by sector](chart_sector_pay.png)
+![Average pay by sector](AVG%20pay%20vs%20sectors%20.png)
 
 *Pay is the midpoint of the Glassdoor salary estimate, in $K.*
