@@ -55,3 +55,14 @@ SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, percen
 2. **Pay barely differs by sector.** Among the six sectors with 50+ postings, average pay ranges only from 67.6K (Finance) to 74.2K (Information Technology), a gap of about 6.6K or 10%. These are Glassdoor estimate ranges, so small differences should not be over-read.
 
 3. **SQL is the most requested skill.** SQL appears in 61.2% of postings, ahead of Excel (40.1%) and Python (28.1%).
+
+
+## Power BI dashboard
+
+A one-page dashboard built from the cleaned data (`Dataanalyst_Dashboard.pbix`, open it in Power BI Desktop).
+
+- **Cards:** total postings (2,253), average pay ($72.1K) and the share of postings that mention SQL (61.2%).
+- **Charts:** top 10 cities by number of postings, and average pay for the six sectors with 50+ postings.
+- **Slicers:** filter the whole page by sector or city.
+
+The numbers match my SQL and Excel results.
