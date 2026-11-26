@@ -58,6 +58,7 @@ SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, percen
 
 
 ## Power BI dashboard
+![Power BI dashboard](dashboard.png)
 
 A one-page dashboard built from the cleaned data (`Dataanalyst_Dashboard.pbix`, open it in Power BI Desktop).
 
